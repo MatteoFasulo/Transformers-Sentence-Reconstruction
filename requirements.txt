@@ -1,0 +1,7 @@
+datasets
+keras
+tensorflow[and-cuda]
+matplotlib
+transformers
+keras-nlp
+numpy
